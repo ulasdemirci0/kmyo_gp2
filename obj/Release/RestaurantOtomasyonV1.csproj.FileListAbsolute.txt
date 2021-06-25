@@ -1,0 +1,14 @@
+R:\C#\RestaurantOtomasyonV1\bin\Release\RestaurantOtomasyonV1.exe.config
+R:\C#\RestaurantOtomasyonV1\bin\Release\RestaurantOtomasyonV1.exe
+R:\C#\RestaurantOtomasyonV1\bin\Release\RestaurantOtomasyonV1.pdb
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.csproj.AssemblyReference.cache
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.AdminInterface.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.customerInterface.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.PersonalInterface.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.Resource1.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.WelcomeInterface.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.Properties.Resources.resources
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.csproj.GenerateResource.cache
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.csproj.CoreCompileInputs.cache
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.exe
+R:\C#\RestaurantOtomasyonV1\obj\Release\RestaurantOtomasyonV1.pdb
